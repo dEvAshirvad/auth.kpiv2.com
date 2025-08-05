@@ -1,0 +1,357 @@
+[{
+  "_id": {
+    "$oid": "688ffb5233676bdf4633b848"
+  },
+  "accountId": "688ffb5233676bdf4633b847",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "688ffb5233676bdf4633b847"
+  },
+  "password": "$2b$12$ZiKOyIacNtUjd5D2tcWkheEiwSsZS9/LskeYzgCAAMD/0q.ZdsbWe",
+  "createdAt": {
+    "$date": "2025-08-04T00:14:10.986Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T00:14:10.986Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "688ffdd056c9e21233a61452"
+  },
+  "accountId": "688ffdd056c9e21233a61451",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "688ffdd056c9e21233a61451"
+  },
+  "password": "$2b$12$phpRriHxj5tMJMytnV4EXeARRo8VtJuZtka5omwJzQuax1wXrnPyW",
+  "createdAt": {
+    "$date": "2025-08-04T00:24:48.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T00:24:48.601Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68901832d4f2278bf50a476f"
+  },
+  "accountId": "68901831d4f2278bf50a476e",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68901831d4f2278bf50a476e"
+  },
+  "password": "$2b$12$ShxqAxS4mN0rbPrgTykVMeOT8ImEa.g9NgVDUeqDbYIgi3bCOnVW6",
+  "createdAt": {
+    "$date": "2025-08-04T02:17:22.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T02:17:22.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68904390342fef67c8265310"
+  },
+  "accountId": "6890438f342fef67c826530f",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "6890438f342fef67c826530f"
+  },
+  "password": "$2b$12$aCmBWQl8wcmE3FEFSUJkEesMDoRSIG56QpwijuWap.6MoGOiKCXp6",
+  "createdAt": {
+    "$date": "2025-08-04T05:22:24.219Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T05:22:24.219Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68904afd342fef67c826532f"
+  },
+  "accountId": "68904afc342fef67c826532e",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68904afc342fef67c826532e"
+  },
+  "password": "$2b$12$iauWcuSCs1kavXsqG9sUZO9q7qqHYTHoMvQkk9w94.XUWMeXZXO5e",
+  "createdAt": {
+    "$date": "2025-08-04T05:54:05.139Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T05:54:05.139Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68904c0c342fef67c8265338"
+  },
+  "accountId": "68904c0c342fef67c8265337",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68904c0c342fef67c8265337"
+  },
+  "password": "$2b$12$RDglnZhmysQZu0sz7MxfAu.UKcKHepzlgjCApqeNM45/ROExpsuu6",
+  "createdAt": {
+    "$date": "2025-08-04T05:58:36.887Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T05:58:36.887Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68905770342fef67c82653b2"
+  },
+  "accountId": "68905770342fef67c82653b1",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68905770342fef67c82653b1"
+  },
+  "password": "$2b$12$nVPGWrP4XpBoFVqe/LJx4.DyWZCAvWaX/ziNgH8YueYMw4xNvykTi",
+  "createdAt": {
+    "$date": "2025-08-04T06:47:12.985Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T06:47:12.985Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689057a2342fef67c82653b7"
+  },
+  "accountId": "689057a1342fef67c82653b6",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "689057a1342fef67c82653b6"
+  },
+  "password": "$2b$12$Ge/SZKN/FEyLlxKSyHKS/eaQAJ8TH/CVMWZIzdIMORnIkUhPvwhKy",
+  "createdAt": {
+    "$date": "2025-08-04T06:48:02.191Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T06:48:02.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689058b5342fef67c82653be"
+  },
+  "accountId": "689058b5342fef67c82653bd",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "689058b5342fef67c82653bd"
+  },
+  "password": "$2b$12$Xl7XMNEi35NMq7wld6kWCOVJQIWbJiRQ11aZtYiTHUDWR0K/2X8xC",
+  "createdAt": {
+    "$date": "2025-08-04T06:52:37.696Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T06:52:37.696Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689058ff342fef67c82653c3"
+  },
+  "accountId": "689058fe342fef67c82653c2",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "689058fe342fef67c82653c2"
+  },
+  "password": "$2b$12$5gQ0V8iLXdzo9Cbo8EpPZ..OjldoyrqWulBKbzQ.b53VX8H6hGZFm",
+  "createdAt": {
+    "$date": "2025-08-04T06:53:51.011Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T06:53:51.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6890593a342fef67c82653c8"
+  },
+  "accountId": "68905939342fef67c82653c7",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68905939342fef67c82653c7"
+  },
+  "password": "$2b$12$wchAzeBoD.N3J9x.sqAic.Y8r/JsVJP8GyX5oVxIkGLU6TR7LJghe",
+  "createdAt": {
+    "$date": "2025-08-04T06:54:50.087Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T06:54:50.087Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6890596d342fef67c82653cd"
+  },
+  "accountId": "6890596d342fef67c82653cc",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "6890596d342fef67c82653cc"
+  },
+  "password": "$2b$12$HqUdsILVRCjOs4ha/y2K/uRt0WNt9I2o.MXL.dm8f30CvjyuGryR.",
+  "createdAt": {
+    "$date": "2025-08-04T06:55:41.827Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T06:55:41.827Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68914d832eba5b2c0f85f1ea"
+  },
+  "accountId": "68914d832eba5b2c0f85f1e9",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68914d832eba5b2c0f85f1e9"
+  },
+  "password": "$2b$12$l4aiQTYAe.qrk.12aGJNYu/ytJkEJHJSwgL.KX60CahoyAx9A2y6q",
+  "createdAt": {
+    "$date": "2025-08-05T00:17:07.675Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T00:17:07.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68914dad2eba5b2c0f85f1f0"
+  },
+  "accountId": "68914dad2eba5b2c0f85f1ef",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68914dad2eba5b2c0f85f1ef"
+  },
+  "password": "$2b$12$PygNh35wfYplbsA2XjRWhuaM73DxZkINOsbtJFXBtfHHmevD5uXRS",
+  "createdAt": {
+    "$date": "2025-08-05T00:17:49.570Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T00:17:49.570Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68914de72eba5b2c0f85f1f5"
+  },
+  "accountId": "68914de72eba5b2c0f85f1f4",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68914de72eba5b2c0f85f1f4"
+  },
+  "password": "$2b$12$/RmdvyW7YYvON5tiEUVUGuCCrL2HjFdj/i41qC.z2.Y10eBIHSlqS",
+  "createdAt": {
+    "$date": "2025-08-05T00:18:47.895Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T00:18:47.895Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68914e022eba5b2c0f85f1fa"
+  },
+  "accountId": "68914e022eba5b2c0f85f1f9",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68914e022eba5b2c0f85f1f9"
+  },
+  "password": "$2b$12$AqczaXXU9A0yUCBkvUfmfenApdo2QAzDTfF/oxjXkA4Aue6d/GxYy",
+  "createdAt": {
+    "$date": "2025-08-05T00:19:14.503Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T00:19:14.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68914e6b2eba5b2c0f85f1ff"
+  },
+  "accountId": "68914e6b2eba5b2c0f85f1fe",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68914e6b2eba5b2c0f85f1fe"
+  },
+  "password": "$2b$12$tzPCOzwJwRVqEWOH/k8rx.0nmk8BEfdR1/eR0R.D1l4k2napS7XLq",
+  "createdAt": {
+    "$date": "2025-08-05T00:20:59.364Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T00:20:59.364Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68914e912eba5b2c0f85f204"
+  },
+  "accountId": "68914e912eba5b2c0f85f203",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68914e912eba5b2c0f85f203"
+  },
+  "password": "$2b$12$3J2qIIYMeGXdIpeWJhT4eOSCzVeSvoZtjE1N3QI4Q86lICn50Ksta",
+  "createdAt": {
+    "$date": "2025-08-05T00:21:37.399Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T00:21:37.399Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68914eab2eba5b2c0f85f209"
+  },
+  "accountId": "68914eab2eba5b2c0f85f208",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68914eab2eba5b2c0f85f208"
+  },
+  "password": "$2b$12$SuRmwPyoqGks1g8h7gXRdeeDbLm7JqG/ifSzPKHTJ0xl882IFGwNO",
+  "createdAt": {
+    "$date": "2025-08-05T00:22:03.848Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T00:22:03.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68914ef32eba5b2c0f85f20e"
+  },
+  "accountId": "68914ef32eba5b2c0f85f20d",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68914ef32eba5b2c0f85f20d"
+  },
+  "password": "$2b$12$K0kSPv46WQ8NWw6iqMMkAeTrtgptMPcUpjZ3OjI9TKI0vdAbxHY36",
+  "createdAt": {
+    "$date": "2025-08-05T00:23:15.741Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T00:23:15.741Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68914f102eba5b2c0f85f213"
+  },
+  "accountId": "68914f102eba5b2c0f85f212",
+  "providerId": "credential",
+  "userId": {
+    "$oid": "68914f102eba5b2c0f85f212"
+  },
+  "password": "$2b$12$cJUWJ0UqtAtyuDfOsEVPHuIggxd8qTInJ/ggFErmvXa3ak4YZ/Xy2",
+  "createdAt": {
+    "$date": "2025-08-05T00:23:44.438Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T00:23:44.438Z"
+  }
+}]
