@@ -6,6 +6,7 @@ import origins from '@/configs/origins';
 import password from '@/lib/password';
 import adminConfig from '@/lib/admin';
 import { authDbHooks, authHooks } from './hooks/auth';
+import env from '@/configs/env';
 
 const betterAuthConfig: BetterAuthOptions = {
   emailAndPassword: {
@@ -21,6 +22,7 @@ const betterAuthConfig: BetterAuthOptions = {
     cookiePrefix: 'rdmp',
     crossSubDomainCookies: {
       enabled: true,
+      domain: env.COOKIE_DOMAIN,
     },
   },
   trustedOrigins: origins,
